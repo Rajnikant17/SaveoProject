@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Saveo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="director">Director</string>
+    <string name="actor">Actor</string>
+    <string name="year_of_release">Year of release</string>
+    <string name="genre">Genre</string>
+    <string name="language">Language</string>
+    <string name="writer">Writer</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="directed_by">Directed by  </string>
+    <string name="synopsis">Synopsis</string>
+    <string name="movie">Movies</string>
+    <string name="movie_detail">Movie Detals</string>
+</resources>

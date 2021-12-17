@@ -1,0 +1,3 @@
+include ':MyApiServicesModule'
+include ':app'
+rootProject.name = "Saveo"

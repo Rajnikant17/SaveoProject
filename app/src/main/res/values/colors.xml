@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#164464</color>
+    <color name="purple_light">#1d5a84</color>
+    <color name="purple_500">#164464</color>
+    <color name="purple_700">#164464</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="more_light_grey">#F7F8FA</color>
+    <color name="grey">#A9A9A9</color>
+    <color name="light_grey">#dddddd</color>
+    <color name="ultra_light_gray">#F0F0F0</color>
+    <color name="smoky_grey">#e3e3e3</color>
+    <color name="dark_green">#149671</color>
+
+    <color name="view_color">#F4F4F4</color>
+    <color name="tab_text_color">#8E8E8E</color>
+    <color name="tab_background">#F2F6F9</color>
+    <color name="discover_tab_background">#F9F9F9</color>
+    <color name="transparent">#0000ffff</color>
+    <color name="bottom_sheet_bg">#F9F9F9</color>
+    <color name="windowBackgroundNight">#FF303030</color>
+    <color name="itemBackgroundNight">#424242</color>
+
+</resources>
